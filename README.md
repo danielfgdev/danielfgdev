@@ -27,6 +27,13 @@
   </a>
 </div>
 
+<br>
+
+<div class="certificacion-container">
+  🏅 Certificaciones:<br>
+  - BTJA (Security Blue Team)
+</div>
+
 ---
 
 ### 👨‍💻 Sobre Mí
@@ -43,23 +50,26 @@ Soy una persona curiosa y resolutiva, con una fuerte motivación por entender c�
 
 <h4>Monitoreo, análisis y respuesta ante incidentes</h4>
   <ul>
-    <li>📊 SIEM para análisis y visualización centralizada de logs y datos de seguridad (<strong>Splunk</strong>)</li>
-    <li>🚨 Monitoreo avanzado de eventos del sistema para detección de amenazas (<strong>Sysmon</strong>, <strong>Suricata</strong>)</li>
-    <li>🛡️ Análisis y captura de tráfico en red en tiempo real (<strong>Wireshark</strong>, <strong>tcpdump</strong>)</li>
-    <li>🔍 Exploración y escaneo de redes para detección de hosts y servicios (<strong>Nmap</strong>)</li>
-    <li>🔐 Herramientas para auditoría de contraseñas y pruebas de fuerza bruta (<strong>Hydra</strong>, <strong>Medusa</strong>, <strong>John the Ripper</strong>...)</li>
+    <li>📊 SIEM para visualización centralizada de logs (<strong>Splunk</strong>)</li>
+    <li>🚨 Monitoreo de eventos del sistema (<strong>Sysmon</strong>, <strong>Suricata</strong>)</li>
+    <li>🛡️ Análisis y captura de tráfico en red (<strong>Wireshark</strong>, <strong>tcpdump</strong>)</li>
+    <li>🔍 Escaneo de redes y servicios (<strong>Nmap</strong>)</li>
+    <li>📦 Simulación de redes (<strong>Packet Tracer</strong>)</li>
+    <li>⚙️ Automatización de tareas (<strong>Bash</strong>, <strong>PowerShell</strong>)</li>
+    <li>🔒 Gestión de políticas de seguridad (<strong>firewalls</strong>, <strong>reglas</strong>...)</li>
+    <li>🔐 Auditoría y fuerza bruta de contraseñas (<strong>Hydra</strong>, <strong>Medusa</strong>, <strong>John the Ripper</strong>...)</li>
   </ul>
 
   <h4>Análisis forense digital</h4>
   <ul>
-    <li>💾 Creación de imágenes forenses y adquisición de datos (<strong>FTK Imager</strong>, <strong>Guymager</strong>)</li>
-    <li>🗃️ Análisis forense de discos y recuperación de evidencias digitales (<strong>Autopsy</strong>, <strong>OSForensics</strong>)</li>
-    <li>📂 Extracción y análisis de datos del registro de Windows (<strong>RegRipper</strong>, <strong>Windows Registry Recovery</strong>)</li>
-    <li>🔎 Extracción y análisis avanzado de metadatos y archivos de sistema (<strong>MFTECmd</strong>, <strong>MFT Explorer</strong>)</li>
-    <li>📋 Recopilación y análisis de información del sistema y actividad (<strong>Nirsoft</strong>)</li>
+    <li>💾 Adquisición forense (<strong>FTK Imager</strong>, <strong>Guymager</strong>)</li>
+    <li>🗃️ Análisis de discos (<strong>Autopsy</strong>, <strong>OSForensics</strong>)</li>
+    <li>📂 Análisis del registro de Windows (<strong>RegRipper</strong>, <strong>Windows Registry Recovery</strong>)</li>
+    <li>🔎 Metadatos y sistema (<strong>MFTECmd</strong>, <strong>MFT Explorer</strong>)</li>
+    <li>📋 Información del sistema y actividad (<strong>Nirsoft</strong>)</li>
     <li>🧠 Captura de memoria volátil (RAM) (<strong>RamCapturer</strong>)</li>
     <li>🔬 Análisis de memoria volátil (RAM) (<strong>Volatility</strong>)</li>
-    <li>⚡ Triage forense automatizado para sistemas Windows y Linux (<strong>WinTriage</strong>, <strong>LinTriage</strong>)</li>
+    <li>⚡ Triage forense automatizado para Windows y Linux (<strong>WinTriage</strong>, <strong>LinTriage</strong>)</li>
   </ul>
 </section>
 
