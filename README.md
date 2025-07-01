@@ -48,7 +48,7 @@ Soy una persona curiosa y resolutiva, con una fuerte motivación por entender c�
   <h3>DFIR y Respuesta ante Incidentes</h3>
   <p>Algunas herramientas se utilizan tanto para análisis forense digital como para respuesta ante incidentes, dependiendo del contexto.</p>
 
-<h4>Monitoreo, análisis y respuesta ante incidentes</h4>
+<h4>Detección y Respuesta ante Incidentes</h4>
   <ul>
     <li>📊 SIEM para visualización centralizada de logs (<strong>Splunk</strong>)</li>
     <li>🚨 Monitoreo de eventos del sistema (<strong>Sysmon</strong>, <strong>Suricata</strong>)</li>
