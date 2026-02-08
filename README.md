@@ -96,7 +96,7 @@ Soy una persona curiosa y resolutiva, con una fuerte motivación por entender c�
   <h4>🖥️ Entorno de trabajo</h4>
   <ul>
     <li><strong>Sistemas operativos:</strong> Windows y Linux (Kali Linux)</li>
-    <li><strong>Virtualización:</strong> VirtualBox</li>
+    <li><strong>Virtualización:</strong> VirtualBox, VMware</li>
   </ul>
 </section>
 
