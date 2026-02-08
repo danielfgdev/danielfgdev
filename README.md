@@ -83,6 +83,15 @@ Soy una persona curiosa y resolutiva, con una fuerte motivación por entender c�
     <li>🛠️ <strong>Frameworks y librerías:</strong> Bootstrap</li>
     <li>🗄️ <strong>Bases de datos:</strong> MySQL</li>
   </ul>
+
+<h4>Proyectos</h4>
+<ul>
+  <li>
+    <strong>WikiRust</strong> — Wiki independiente sobre mecánicas de raid en Rust<br>
+    <a href="https://wikirust.com">wikirust.com</a>
+  </li>
+</ul>
+  
   <h4>Herramientas y plataformas</h4>
   <ul>
     <li><strong>Herramientas:</strong> Git, GitHub, VS Code, Postman</li>
