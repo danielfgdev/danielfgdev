@@ -88,7 +88,7 @@ Soy una persona curiosa y resolutiva, con una fuerte motivación por entender c�
 <ul>
   <li>
     <strong>WikiRust</strong> — Wiki independiente sobre mecánicas de raid y seguridad de bases en el videojuego Rust.<br>
-    <a href="https://wikirust.com">https://wikirust.com</a>
+    <a href="https://wikirust.com/">https://wikirust.com/</a>
   </li>
 </ul>
   
