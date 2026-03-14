@@ -17,9 +17,8 @@
   
 <a href="https://wikirust.com/">
   <img alt="WikiRust | Rust Raid Chart" src="https://img.shields.io/badge/WikiRust%20|%20Rust%20Raid%20Chart-%23C96F1D?style=for-the-badge"></a>  
-<br><br>
+<br><br><br>
   
-
 <!--
   <p>
     <img src="https://komarev.com/ghpvc/?username=danielfgdev&label=Visitas%20al%20Perfil&color=blueviolet&style=flat-square" alt="Contador de Visitas" />
