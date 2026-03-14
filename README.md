@@ -7,16 +7,16 @@
  <em>🧰 Experiencia práctica con diversas herramientas especializadas en análisis forense y respuesta ante incidentes</em><br>
  <em>🚀 Explorando retos de seguridad (CTFs, OverTheWire, labs.gf0s.com...) y compartiendo mi progreso</em>
 
-  <a href="https://www.linkedin.com/in/danielfgdev/" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/danielfgdev/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
-  <a href="https://danielfgdev.com/" target="_blank" rel="noopener">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-darkred?style=for-the-badge"></a>
+<a href="https://danielfgdev.com/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-darkred?style=for-the-badge"></a>
 <br><br>
   
-  <a href="https://wikirust.com/" target="_blank" rel="noopener">
-    <img alt="WikiRust | Rust Raid Chart" src="https://img.shields.io/badge/WikiRust%20|%20Rust%20Raid%20Chart-%23C96F1D?style=for-the-badge"></a>  
+<a href="https://wikirust.com/">
+  <img alt="WikiRust | Rust Raid Chart" src="https://img.shields.io/badge/WikiRust%20|%20Rust%20Raid%20Chart-%23C96F1D?style=for-the-badge"></a>  
 <br><br>
   
 
