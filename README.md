@@ -17,8 +17,7 @@
   
 <a href="https://wikirust.com/">
   <img alt="WikiRust | Rust Raid Chart" src="https://img.shields.io/badge/WikiRust%20|%20Rust%20Raid%20Chart-%23C96F1D?style=for-the-badge"></a>  
-<br><br>
-
+<br>
 <a href="https://corecalctools.com/">
   <img alt="CoreCalcTools | Financial Calculators" src="https://img.shields.io/badge/CoreCalcTools%20|%20Financial%20Calculators-%2366b246?style=for-the-badge">
 </a>
@@ -103,7 +102,7 @@ Soy una persona curiosa y resolutiva, con una fuerte motivación por entender c�
   </li>
   <br>
   <li>
-    <strong>CoreCalcTools</strong> — Web de calculadoras financieras enfocada en ofrecer herramientas rápidas, precisas y fáciles de usar para cálculos como préstamos, interés compuesto, porcentajes y más.<br>
+    <strong>CoreCalcTools</strong> — Plataforma de calculadoras financieras diseñada para ofrecer resultados rápidos y precisos en cálculos de préstamos, intereses, porcentajes y finanzas personales.<br>
     <a href="https://corecalctools.com/">https://corecalctools.com/</a>
   </li>
 </ul>
