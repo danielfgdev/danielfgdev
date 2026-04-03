@@ -101,6 +101,11 @@ Soy una persona curiosa y resolutiva, con una fuerte motivación por entender c�
     <strong>WikiRust</strong> — Wiki independiente sobre mecánicas de raid y seguridad de bases en el videojuego Rust.<br>
     <a href="https://wikirust.com/">https://wikirust.com/</a>
   </li>
+  <br>
+  <li>
+    <strong>CoreCalcTools</strong> — Web de calculadoras financieras enfocada en ofrecer herramientas rápidas, precisas y fáciles de usar para cálculos como préstamos, interés compuesto, porcentajes y más.<br>
+    <a href="https://corecalctools.com/">https://corecalctools.com/</a>
+  </li>
 </ul>
   
   <h4>Herramientas y plataformas</h4>
