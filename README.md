@@ -22,7 +22,7 @@
   <img alt="CoreCalcTools | Financial Calculators" src="https://img.shields.io/badge/CoreCalcTools%20|%20Financial%20Calculators-%2366b246?style=for-the-badge">
 </a>
 
-<br><br><br>
+<br><br>
 
 <!--
   <p>
