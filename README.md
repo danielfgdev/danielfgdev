@@ -2,12 +2,12 @@
 
   <h1>¡Hola! 👋 Soy Dani</h1>
   
-<strong>Sistemas y Redes | Ciberseguridad | DFIR</strong><br>
+<strong>Sistemas y Redes | Ciberseguridad | DFIR</strong><br><br>
  <em>🎓 Estudiante de 2.º de ASIR, orientado a sistemas, redes y ciberseguridad</em><br>
  <em>🛡️ Formación en ciberseguridad, Blue Team y DFIR</em><br>
- <em>🔎 Especial interés en análisis forense digital y respuesta ante incidentes</em>
- <em>💻 Experiencia práctica adicional en desarrollo web</em>
- <em>🧪 Aprendizaje continuo mediante proyectos, laboratorios y retos de ciberseguridad</em>
+ <em>🔎 Especial interés en análisis forense digital y respuesta ante incidentes</em><br>
+ <em>💻 Experiencia práctica adicional en desarrollo web</em><br>
+ <em>🧪 Aprendizaje continuo mediante proyectos, laboratorios y retos de ciberseguridad</em><br>
  
 
 <a href="https://www.linkedin.com/in/danielfgdev/">
