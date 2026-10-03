@@ -2,10 +2,13 @@
 
   <h1>¡Hola! 👋 Soy Dani</h1>
   
-<strong>Cybersecurity Analyst | DFIR & Blue Team | Web Dev con mentalidad defensiva</strong><br>
- <em>📍 Formándome en análisis forense y respuesta ante incidentes (DFIR)</em><br>
- <em>🧰 Experiencia práctica con diversas herramientas especializadas en análisis forense y respuesta ante incidentes</em><br>
- <em>🚀 Explorando retos de seguridad (CTFs, OverTheWire, labs.gf0s.com...) y compartiendo mi progreso</em>
+<strong>Sistemas y Redes | Ciberseguridad | DFIR</strong><br>
+ <em>🎓 Estudiante de 2.º de ASIR, orientado a sistemas, redes y ciberseguridad</em><br>
+ <em>🛡️ Formación en ciberseguridad, Blue Team y DFIR</em><br>
+ <em>🔎 Especial interés en análisis forense digital y respuesta ante incidentes</em>
+ <em>💻 Experiencia práctica adicional en desarrollo web</em>
+ <em>🧪 Aprendizaje continuo mediante proyectos, laboratorios y retos de ciberseguridad</em>
+ 
 
 <a href="https://www.linkedin.com/in/danielfgdev/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -42,14 +45,16 @@
 
 <div class="certificacion-container">
   🏅 Certificaciones:<br>
-  - BTJA (Security Blue Team)
+  - Blue Team Junior Analyst (BTJA) - Security Blue Team
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
-Soy una persona curiosa y resolutiva, con una fuerte motivación por entender cómo funcionan los sistemas y cómo protegerlos. Tras varios años en el mundo de la mecánica, donde desarrollé pensamiento analítico y atención al detalle, decidí enfocar mi carrera hacia la informática; comencé aprendiendo desarrollo web, que también me interesa, pero pronto confirmé que la ciberseguridad es mi verdadera vocación y pasión. Actualmente me especializo en análisis forense y respuesta a incidentes (DFIR), combinando estudio con retos prácticos y uso real de herramientas especializadas. Mi objetivo es crecer profesionalmente en el ámbito de la ciberseguridad o el desarrollo web, donde pueda aportar valor con una mentalidad analítica y defensiva, seguir aprendiendo y evolucionar continuamente.
+Soy una persona curiosa y resolutiva, con experiencia previa en entornos técnicos y una fuerte motivación por comprender cómo funcionan los sistemas y cómo protegerlos. Actualmente curso el segundo año del CFGS de Administración de Sistemas Informáticos en Red (ASIR), orientando mi perfil hacia sistemas, redes y ciberseguridad.
+Cuento con formación complementaria en ciberseguridad y DFIR (Digital Forensic and Incident Response), además de experiencia práctica en desarrollo web. Me interesa especialmente el análisis forense digital y la respuesta ante incidentes, y continúo desarrollando mis conocimientos mediante proyectos, laboratorios y retos de seguridad.
+Mi objetivo es obtener mi primera oportunidad profesional en sistemas, redes o ciberseguridad y seguir creciendo técnicamente en un entorno profesional.
 
 ---
 
